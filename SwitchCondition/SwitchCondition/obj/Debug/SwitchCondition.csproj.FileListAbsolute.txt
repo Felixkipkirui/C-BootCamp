@@ -1,0 +1,7 @@
+D:\Programming_Projects\Visual Studio IDE\C#\SwitchCondition\SwitchCondition\bin\Debug\SwitchCondition.exe.config
+D:\Programming_Projects\Visual Studio IDE\C#\SwitchCondition\SwitchCondition\bin\Debug\SwitchCondition.exe
+D:\Programming_Projects\Visual Studio IDE\C#\SwitchCondition\SwitchCondition\bin\Debug\SwitchCondition.pdb
+D:\Programming_Projects\Visual Studio IDE\C#\SwitchCondition\SwitchCondition\obj\Debug\SwitchCondition.csproj.AssemblyReference.cache
+D:\Programming_Projects\Visual Studio IDE\C#\SwitchCondition\SwitchCondition\obj\Debug\SwitchCondition.csproj.CoreCompileInputs.cache
+D:\Programming_Projects\Visual Studio IDE\C#\SwitchCondition\SwitchCondition\obj\Debug\SwitchCondition.exe
+D:\Programming_Projects\Visual Studio IDE\C#\SwitchCondition\SwitchCondition\obj\Debug\SwitchCondition.pdb

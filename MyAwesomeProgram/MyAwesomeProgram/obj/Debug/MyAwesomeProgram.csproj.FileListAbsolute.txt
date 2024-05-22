@@ -1,0 +1,7 @@
+D:\Programming_Projects\Visual Studio IDE\C#\MyAwesomeProgram\MyAwesomeProgram\bin\Debug\MyAwesomeProgram.exe.config
+D:\Programming_Projects\Visual Studio IDE\C#\MyAwesomeProgram\MyAwesomeProgram\bin\Debug\MyAwesomeProgram.exe
+D:\Programming_Projects\Visual Studio IDE\C#\MyAwesomeProgram\MyAwesomeProgram\bin\Debug\MyAwesomeProgram.pdb
+D:\Programming_Projects\Visual Studio IDE\C#\MyAwesomeProgram\MyAwesomeProgram\obj\Debug\MyAwesomeProgram.csproj.AssemblyReference.cache
+D:\Programming_Projects\Visual Studio IDE\C#\MyAwesomeProgram\MyAwesomeProgram\obj\Debug\MyAwesomeProgram.csproj.CoreCompileInputs.cache
+D:\Programming_Projects\Visual Studio IDE\C#\MyAwesomeProgram\MyAwesomeProgram\obj\Debug\MyAwesomeProgram.exe
+D:\Programming_Projects\Visual Studio IDE\C#\MyAwesomeProgram\MyAwesomeProgram\obj\Debug\MyAwesomeProgram.pdb

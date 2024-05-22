@@ -1,0 +1,7 @@
+D:\Programming_Projects\Visual Studio IDE\C#\Condition2\Condition2\bin\Debug\Condition2.exe.config
+D:\Programming_Projects\Visual Studio IDE\C#\Condition2\Condition2\bin\Debug\Condition2.exe
+D:\Programming_Projects\Visual Studio IDE\C#\Condition2\Condition2\bin\Debug\Condition2.pdb
+D:\Programming_Projects\Visual Studio IDE\C#\Condition2\Condition2\obj\Debug\Condition2.csproj.AssemblyReference.cache
+D:\Programming_Projects\Visual Studio IDE\C#\Condition2\Condition2\obj\Debug\Condition2.csproj.CoreCompileInputs.cache
+D:\Programming_Projects\Visual Studio IDE\C#\Condition2\Condition2\obj\Debug\Condition2.exe
+D:\Programming_Projects\Visual Studio IDE\C#\Condition2\Condition2\obj\Debug\Condition2.pdb

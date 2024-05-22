@@ -1,0 +1,7 @@
+D:\Programming_Projects\Visual Studio IDE\C#\CLI-USSD\CLI-USSD\bin\Debug\CLI-USSD.exe.config
+D:\Programming_Projects\Visual Studio IDE\C#\CLI-USSD\CLI-USSD\bin\Debug\CLI-USSD.exe
+D:\Programming_Projects\Visual Studio IDE\C#\CLI-USSD\CLI-USSD\bin\Debug\CLI-USSD.pdb
+D:\Programming_Projects\Visual Studio IDE\C#\CLI-USSD\CLI-USSD\obj\Debug\CLI-USSD.csproj.AssemblyReference.cache
+D:\Programming_Projects\Visual Studio IDE\C#\CLI-USSD\CLI-USSD\obj\Debug\CLI-USSD.csproj.CoreCompileInputs.cache
+D:\Programming_Projects\Visual Studio IDE\C#\CLI-USSD\CLI-USSD\obj\Debug\CLI-USSD.exe
+D:\Programming_Projects\Visual Studio IDE\C#\CLI-USSD\CLI-USSD\obj\Debug\CLI-USSD.pdb

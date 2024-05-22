@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCLILogin", "SimpleCLILogin\SimpleCLILogin.csproj", "{0281EE72-DDEA-4CBA-B82C-7A8536E5683D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0281EE72-DDEA-4CBA-B82C-7A8536E5683D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0281EE72-DDEA-4CBA-B82C-7A8536E5683D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0281EE72-DDEA-4CBA-B82C-7A8536E5683D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0281EE72-DDEA-4CBA-B82C-7A8536E5683D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE548A6-D056-46FD-801A-AEA3B2ECB8F7}
+	EndGlobalSection
+EndGlobal

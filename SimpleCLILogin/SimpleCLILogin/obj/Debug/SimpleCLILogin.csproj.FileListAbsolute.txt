@@ -1,0 +1,6 @@
+D:\Programming_Projects\Visual Studio IDE\C#\SimpleCLILogin\SimpleCLILogin\bin\Debug\SimpleCLILogin.exe.config
+D:\Programming_Projects\Visual Studio IDE\C#\SimpleCLILogin\SimpleCLILogin\bin\Debug\SimpleCLILogin.exe
+D:\Programming_Projects\Visual Studio IDE\C#\SimpleCLILogin\SimpleCLILogin\bin\Debug\SimpleCLILogin.pdb
+D:\Programming_Projects\Visual Studio IDE\C#\SimpleCLILogin\SimpleCLILogin\obj\Debug\SimpleCLILogin.csproj.CoreCompileInputs.cache
+D:\Programming_Projects\Visual Studio IDE\C#\SimpleCLILogin\SimpleCLILogin\obj\Debug\SimpleCLILogin.exe
+D:\Programming_Projects\Visual Studio IDE\C#\SimpleCLILogin\SimpleCLILogin\obj\Debug\SimpleCLILogin.pdb

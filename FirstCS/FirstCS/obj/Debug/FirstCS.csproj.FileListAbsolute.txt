@@ -1,0 +1,7 @@
+D:\Programming_Projects\Visual Studio IDE\C#\FirstCS\FirstCS\bin\Debug\FirstCS.exe.config
+D:\Programming_Projects\Visual Studio IDE\C#\FirstCS\FirstCS\bin\Debug\FirstCS.exe
+D:\Programming_Projects\Visual Studio IDE\C#\FirstCS\FirstCS\bin\Debug\FirstCS.pdb
+D:\Programming_Projects\Visual Studio IDE\C#\FirstCS\FirstCS\obj\Debug\FirstCS.csproj.AssemblyReference.cache
+D:\Programming_Projects\Visual Studio IDE\C#\FirstCS\FirstCS\obj\Debug\FirstCS.csproj.CoreCompileInputs.cache
+D:\Programming_Projects\Visual Studio IDE\C#\FirstCS\FirstCS\obj\Debug\FirstCS.exe
+D:\Programming_Projects\Visual Studio IDE\C#\FirstCS\FirstCS\obj\Debug\FirstCS.pdb
